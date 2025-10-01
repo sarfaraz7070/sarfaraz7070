@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @sarfaraz7070
+- 👋 Hi, I’m sarfaraz Ahmed
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning version contorl
+- 🌱 I’m currently learing back-end node js 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me my email sarfarzlaghari101@gmail.com
 
